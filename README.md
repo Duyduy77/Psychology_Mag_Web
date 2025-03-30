@@ -1,1 +1,1 @@
-# News_Web
+# Mag_Web
